@@ -1,0 +1,13 @@
+Career - Architect | AI-Powered Education Mentorship
+Career - Architect is a next-generation educational consultancy tool designed for Bullstar Scholars LLP. Unlike traditional static websites, this interactive Single Page Application (SPA) acts as a 24/7 "Digital Agent" for CEO Samuel Samson.
+
+It leverages Google's Gemini API to democratize access to elite "Talent Mining" mentorship, allowing students to receive instant, AI-driven feedback on their profiles, resumes, and study abroad aspirations.
+
+🌟 Core Capabilities
+🤖 The AI Lab: Uses Large Language Models (LLMs) to perform instant Profile Diagnostics, generate narrative hooks for Statements of Purpose (SOPs), and calculate Visa Acceptance Risks.
+
+📊 Impact Dashboard: Visualizes 10+ years of data (12,000+ students, $50M+ scholarships) using dynamic Chart.js visualizations.
+
+💼 Strategic Architecture: An interactive breakdown of the "Profile Pro" methodology that targets $100k+ starting salaries rather than just university admissions.
+
+⚡ Zero-Backend Deployment: Built entirely on HTML5, Tailwind CSS, and client-side JavaScript for instant, free hosting on GitHub Pages.
